@@ -1,9 +1,9 @@
 # main text of home
 name: Jean-Mickael Nounahon
-bio: 'Mathematics, Finance, Blockchain.'
+bio: 'Mathematics, Finance, IT & Blockchain.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog about My passions, hobbies and project
 
 # if it's an external image, update below for true
 # better with square images
@@ -43,7 +43,7 @@ authors:
         bio: Physics, Reading, Teaching.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+       # twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
@@ -56,7 +56,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 research: true
 teaching: true
 # if you don't need about or blog, comment them out below
