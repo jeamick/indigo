@@ -16,7 +16,7 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
     <b><a href="README.md#license">License</a></b>
 </p>
 
-![Screenshot](https://github.com/jeamick/jeamick.github.io/screen-shot.png)
+![Screenshot](https://github.com/jeamick/jeamick.github.io/blob/master/screen-shot.png)
 
 ---
 
