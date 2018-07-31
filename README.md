@@ -1,6 +1,6 @@
-## Arti Annaswamy's Personal Website 
+## Jean-Mickael Nounahon's Personal Website 
 
-See it here - [artiannaswamy.com](http://artiannaswamy.com)
+See it here - [https://jeamick.github.io/(https://jeamick.github.io/)
 
 Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)
 
@@ -39,7 +39,7 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
 
 ## Tutorials
 
-Here's a couple of blog posts I've written on how I got the site setup - from acquiring the domain to adding customizations to the [Indigo](https://github.com/sergiokopplin/indigo) theme by @sergiokopplin.
+Here's a couple of blog posts I used to get my website - from acquiring the domain to adding customizations to the [Indigo](https://github.com/sergiokopplin/indigo) theme by @sergiokopplin.
 
 - [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1)
 - [Build a Blog with Github - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2)
