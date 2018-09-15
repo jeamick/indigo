@@ -12,11 +12,15 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 Checking if it changes
 
 
-<p>As most graduate students, we read many papers over the course of our PhD and there are few papers which seem to be worthwhile and important. Thishere will be a compilation of what I ahve enjoyed reading in various fields of physics. 
+<p>As most graduate students, I read many papers over the course of my master degree and there are few papers which seem to be worthwhile and important. Thishere will be a compilation of what I ahve enjoyed reading in various fields . 
 </p>
 
-<h2> Cosmology </h2>
+<h2> Blockchain </h2>
 - [njdsndn](https://en.wikipedia.org/wiki/Cosmology)
+
+<h2> Computer Science </h2>
+
+<h2> Machine Learning </h2>
 
 
 
