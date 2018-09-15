@@ -8,13 +8,17 @@ I am a Master student in Financial Engineering at [ESILV](https://www.esilv.fr/e
 
 I  am currently working as a Risk Analyst at BnP Paribas CIB London Branch.
 I am mostly using python as my main language there to do some data analysis/visualization tools for risk management . In terms of Finance I am involved in xVA monitoring others projects concerning digital transformation.
-I have many tech hobbies such as Blockchain . I am really into in since 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/), [Hackathons]   (https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) , and working to help the community to grow .
+I have many tech hobbies such as Blockchain . I am really into in since 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/) and [Hackathons]   (https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/). 
+My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
 
-My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence.
+Apart from research, I am very passionate about Learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
+   - [finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex, 
 
-[OpenMined](https://www.openmined.org/) 
+   - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. The more recent one was about 
 
-Apart from research, I am very passionate about Learning. Over the last couple of years, I have taught lab courses in Physics for life science undergraduate majors and have volunteered at local elementary school to set up small lab sessions to kindle curiosity and interest in science. More recently, I am designing a curriculum to teach year long to High school students as part of the University's [graduate women in science outreach program](http://www.stonybrook.edu/commcms/wise/pre-college/high_school). More details of my teaching journey can be found [here.](https://niveditharam.github.io/teaching/)
+   - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.
+
+ More details about some of the projects I have worked about [here.](https://drive.google.com/file/d/1hjY7DVMsmG8sE1TMZMChVRe4lq_9CjFr/view?usp=sharing)
 
 
 More information on my academic journey can be found in my [CV](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
