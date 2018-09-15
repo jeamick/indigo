@@ -13,7 +13,7 @@ I have many tech hobbies such as Blockchain . I am really into in since 3 years 
 My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
 
 Apart from research, I am very passionate about Learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
-   - [finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex, 
+   - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex, 
 
    - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. The more recent one was about 
 
