@@ -8,7 +8,8 @@ I am a Master student in Financial Engineering at [ESILV](https://www.esilv.fr/e
 
 I  am currently working as a Risk Analyst at BnP Paribas CIB London Branch.
 I am mostly using python as my main language there to do some data analysis/visualization tools for risk management . In terms of Finance I am involved in xVA monitoring others projects concerning digital transformation.
-I have many tech hobbies such as Blockchain . I am really into in since 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/) and [Hackathons]   (https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/). 
+I have many tech hobbies such as Blockchain . I am really into in since 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/) and 
+[Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/). 
 My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
 
 Apart from research, I am very passionate about Learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
