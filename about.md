@@ -24,7 +24,7 @@ Apart from research, I am very passionate about Learning. Over the last couple o
 
 More information on my academic journey can be found in my [CV](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
 
-Here is the recent project I have took part into :
+Here are the recent projects I have took part into :
   - [Blockchain Master Course](HugoBrunet13.github.io): The goal of was to 
   explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer .
   I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/)
