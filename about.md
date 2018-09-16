@@ -13,7 +13,7 @@ I have many tech hobbies such as Blockchain . I am really into in since 3 years 
 My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
 
 Apart from research, I am very passionate about Learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
-   - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex, 
+   - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex 
 
    - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. The more recent one was about 
 
@@ -24,6 +24,17 @@ Apart from research, I am very passionate about Learning. Over the last couple o
 
 More information on my academic journey can be found in my [CV](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
 
+Here is the recent project I have took part into :
+  - [Blockchain Master Course](HugoBrunet13.github.io).The goal of was to 
+  explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer .
+  I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/)
+
+- [Corda Audit Application](https://drive.google.com/file/d/0BwysUpxBlNQARTQ0SkRKUlExcjg0X3FzUXg1VGQyVkxKVm93/view).Once our CordApps is added, the firm has access, via a web interface, to the entire transaction history of the company in question. The recovered information is certified by the Blockchain, so the firm can perform its audit. The audit result is not publicly displayed, only a statement indicates that the company has been audited.
+Our application is developed in such a way that we have defined three states: a Boolean that indicates whether or not the audit has been performed; a string for the auditor's name (to see if it can be improved) and an address (in the blockchain sense) of the audited node.
+These states are initiated by Flows developed in Kotlin. Flows are called via a Json request on an API developed in JavaScript. They drive the information into the application by calling up contracts. The latter check the validity of the argument in order to modify, or not, a report.
+Flows are called via a Json request on an API developed in JavaScript.
+
+
 Apart from all this, I love sport, meeting new people, travelling, reading and developing. 
 
-Feel free to write to me with any questions or opportunities in teaching or theatre that you think will interest me. 
+Feel free to write to me with any questions or opportunities in Blockchain, finance & Computer science that you think will interest me. 
