@@ -27,14 +27,17 @@ More information on my academic journey can be found in my [CV](https://drive.go
 Here are the recent projects I have took part into :
   - [2nd master course : Blockchain](HugoBrunet13.github.io): The goal of was to 
   explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer .
-  I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/)
+  I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/). 
 
-  - [Cryptofinance Projects]()
+  - Cryptofinance Projects: We did many projects during this course. The first was a timestamp study of the bitcoin network based on this [paper](https://arxiv.org/pdf/1702.02867.pdf).
+  The goal was to show that the timestamp distribution is following a exponential law using statistical
+  Analysis . The second part was to develop our own mining algorithm to make sure that the mining time is always 10 minutes and create a exponential law for these series of timestamps.
 
-- [Corda Audit Application](https://drive.google.com/file/d/0BwysUpxBlNQARTQ0SkRKUlExcjg0X3FzUXg1VGQyVkxKVm93/view): Once our CordApps is added, the firm has access, via a web interface, to the entire transaction history of the company in question. The recovered information is certified by the Blockchain, so the firm can perform its audit. The audit result is not publicly displayed, only a statement indicates that the company has been audited.
-Our application is developed in such a way that we have defined three states: a Boolean that indicates whether or not the audit has been performed; a string for the auditor's name (to see if it can be improved) and an address (in the blockchain sense) of the audited node.
-These states are initiated by Flows developed in Kotlin. Flows are called via a Json request on an API developed in JavaScript. They drive the information into the application by calling up contracts. The latter check the validity of the argument in order to modify, or not, a report.
-Flows are called via a Json request on an API developed in JavaScript.
+
+  - [Corda Audit Application](https://drive.google.com/file/d/0BwysUpxBlNQARTQ0SkRKUlExcjg0X3FzUXg1VGQyVkxKVm93/view): Once our CordApps is added, the firm has access, via a web interface, to the entire transaction history of the company in question. The recovered information is certified by the Blockchain, so the firm can perform its audit. The audit result is not publicly displayed, only a statement indicates that the company has been audited.
+  Our application is developed in such a way that we have defined three states: a Boolean that indicates whether or not the audit has been performed; a string for the auditor's name (to see if it can be improved) and an address (in the blockchain sense) of the audited node.
+  These states are initiated by Flows developed in Kotlin. Flows are called via a Json request on an API developed in JavaScript. They drive the information into the application by calling up contracts. The latter check the validity of the argument in order to modify, or not, a report.
+  Flows are called via a Json request on an API developed in JavaScript.
 
 
 Apart from all this, I love sport, meeting new people, travelling, reading and developing. 
