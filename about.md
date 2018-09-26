@@ -13,19 +13,20 @@ I have many tech hobbies such as Blockchain . I am really into in since 3 years 
 My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
 
 Apart from research, I am very passionate about Learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
-   - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex 
+   - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex.We finished 3rd of the hackathon.
+   I want to thanks Jerome de Tichey & Stephane Janaka to help with their expertise of the subject.
 
-   - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. We had the opportunity [to pitch about solution to the CEO of Microsoft](). We have been named as "Inspired people of 2016" by him concerning Blockchain .
+   - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. We had the opportunity [to pitch about solution to the CEO of Microsoft](https://www.youtube.com/watch?v=TRBaRr-VC5U). We have been named as "Inspired people of 2016" by him concerning Blockchain.
 
-   - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.
+   - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.You can find the code [here](https://github.com/YOHANMAURIN/YOHANMAURIN.github.io/tree/develop/Delinquants)
 
- More details about some of the projects I have worked about [here.](https://drive.google.com/file/d/1hjY7DVMsmG8sE1TMZMChVRe4lq_9CjFr/view?usp=sharing)
+ More details about some of the projects I have worked about [here](https://drive.google.com/file/d/1hjY7DVMsmG8sE1TMZMChVRe4lq_9CjFr/view?usp=sharing)
 
 
-More information on my academic journey can be found in my [CV](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
+More information on my academic journey can be found in my [resume](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
 
 Here are the recent projects I have took part into :
-  - [2nd master course : Blockchain](HugoBrunet13.github.io): The goal of was to 
+  - [Blockchain Master Course](HugoBrunet13.github.io): The goal of was to 
   explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer .
   I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/). 
 
