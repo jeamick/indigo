@@ -15,7 +15,7 @@ My main open-source project right now is Open Mined , an open-source community f
 Apart from research, I am very passionate about Learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
    - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on poloniex 
 
-   - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. The more recent one was about 
+   - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. We had the opportunity [to pitch about solution to the CEO of Microsoft](). We have been named as "Inspired people of 2016" by him concerning Blockchain .
 
    - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.
 
