@@ -10,8 +10,7 @@ description: A blog about Myself, Hobbies, Projects
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
-#your url: http://jeamick.github.io
+url: http://jeamick.github.io
 
 permalink: /:title/
 
@@ -22,14 +21,11 @@ highlighter: rouge
 analytics-google: 'UA-123005881-1'
 
 # if you don't want comments in your posts, set to false
-#disqus: artiannaswamy
+disqus: jeanmickaelnounahon
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: jeanmikb
-# google: mygoogle
-# instagram: myinstagram
-#pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
@@ -40,11 +36,7 @@ email: nounahon.j@gmail.com
 authors:
     Jean-Mickael:
         name: Jean-Mickael Nounahon
-       # bio: Physics, Reading, Teaching.
-        #external-image: false
         picture: assets/images/profile.jpg
-       # twitter: NivedithaRam
-
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
