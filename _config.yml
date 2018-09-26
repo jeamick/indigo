@@ -1,9 +1,9 @@
 # main text of home
 name: Jean-Mickael Nounahon
-bio: 'Mathematics, Finance, IT & Blockchain.'
+bio: 'Mathematics, Finance, IT & Blockchain'
 
 # twitter summary info
-description: A blog about Myself , Hobbies, Projects
+description: A blog about Myself, Hobbies, Projects
 
 # if it's an external image, update below for true
 # better with square images
@@ -38,10 +38,10 @@ github: jeamick
 email: nounahon.j@gmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
-        external-image: false
+    Jean-Mickael:
+        name: Jean-Mickael Nounahon
+       # bio: Physics, Reading, Teaching.
+        #external-image: false
         picture: assets/images/profile.jpg
        # twitter: NivedithaRam
 
