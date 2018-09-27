@@ -18,7 +18,8 @@ Apart from research, I am very passionate about Learning. Over the last couple o
 
    - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. We had the opportunity [to pitch about solution to the CEO of Microsoft](https://www.youtube.com/watch?v=TRBaRr-VC5U). We have been named as "Inspired people of 2016" by him concerning Blockchain.
 
-   - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.You can find the code [here](https://github.com/YOHANMAURIN/YOHANMAURIN.github.io/tree/develop/Delinquants)
+   - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.
+   You can find the code [here](https://github.com/YOHANMAURIN/YOHANMAURIN.github.io/tree/develop/Delinquants)
 
  More details about some of the projects I have worked about [here](https://drive.google.com/file/d/1hjY7DVMsmG8sE1TMZMChVRe4lq_9CjFr/view?usp=sharing)
 
