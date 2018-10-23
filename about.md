@@ -22,10 +22,8 @@ Apart from research, I am very passionate about learning. Over the last couple o
    You can find the code [here](https://github.com/YOHANMAURIN/YOHANMAURIN.github.io/tree/develop/Delinquants)
 
  
-
 Here are the recent projects I have took part into :
-  - [Blockchain Master Course](HugoBrunet13.github.io): The goal of was to 
-  explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer .
+  - [Blockchain Master Course](http://HugoBrunet13.github.io): The goal of was to explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer . 
   I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/). 
 
   - Cryptofinance Projects: We did many projects during this course. The first was a timestamp study of the bitcoin network based on this [paper](https://arxiv.org/pdf/1702.02867.pdf).
@@ -46,4 +44,4 @@ More details about some of the projects I have worked about [here](https://drive
 
 More information on my academic journey can be found in my [resume](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
 
-Feel free to write to me with any questions or opportunities in Blockchain, finance & Computer science that you think will interest me. 
+Feel free to write to me with any questions or opportunities in Blockchain, Finance & Computer science that you think will interest me. 
