@@ -6,11 +6,14 @@ layout: page
 
 I graduated in Financial Engineering at [ESILV](https://www.esilv.fr/en/programmes/masters-program/) supervised by Prof. Cyril Grunspan  in Paris. I did my undergraduate studies in Mathematics for Engineering in Lyon 
 
-I am currently working as a Risk Analyst at BnP Paribas CIB London Branch.
-I am mostly using Python, C++ as my daily languages there to do some data analysis/visualization tools for risk management . In terms of Finance I am involved in xVA monitoring  & others projects concerning digital transformation.
+I am currently working as a Analyst at BnP Paribas CIB London Branch.
+I am mostly using Python, C++ as my daily languages there to do some Innovation tools (data analysis/visualization) for risk management. In terms of Finance I am involved in credit risk monitoring  & others projects concerning digital transformation.
 I have many tech hobbies such as Blockchain . I am really into it for 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/) and 
 [Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/). 
 My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
+
+What I did for this decentralized private marketplace was to build
+a [solution](https://github.com/jeamick/Sonar) on top of Ethermint using truffle to be able to give tokens to people who contributes to enhance a public encrypted machine learning model with their own encrypted data.
 
 Apart from research, I am very passionate about learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
    - [Finance](https://github.com/asseth/telegram-ethbot) with an telegram trading bot on Poloniex.We finished 3rd of the hackathon.
@@ -27,7 +30,7 @@ Here are the recent projects I have took part into :
   I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/). 
 
   - Cryptofinance Projects: We did many projects during this course. The first was a timestamp study of the bitcoin network based on this [paper](https://arxiv.org/pdf/1702.02867.pdf).
-  The goal was to show that the timestamp distribution is following a exponential law using statistical
+  The goal was to show that the block's timestamp distribution is following a exponential law using statistical
   Analysis . The second part was to develop our own mining algorithm to make sure that the mining time is always 10 minutes and create a exponential law for these series of timestamps.
 
 
