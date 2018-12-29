@@ -1,13 +1,13 @@
 ---
-title: "India-based Neutrino Observatory"
+title: "OpenMined"
 layout: post
-date: 2017-07-19 18:23
+date: 2018-12-29 18:48
 tag: Neutrino Physics
 tag: India
 teaching: true
 draft: false
-author: Niveditha Ram
-summary: "India Based Neutrino Observatory - Physics questions and what the observatory is trying to achieve"
+author: Nounahon Jean-Mickael
+summary: "OpenMined - Open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence"
  
 ---
 
