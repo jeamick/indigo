@@ -5,7 +5,6 @@ date: 2018-12-28 18:48
 tag: Mathematics
 tag: Blockchain, Machine Learning & Cryptography
 research: true
-teaching: true
 draft: false
 author: Nounahon Jean-Mickael
 summary: "OpenMined - Open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence"
