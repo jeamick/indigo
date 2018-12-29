@@ -2,8 +2,9 @@
 title: "OpenMined"
 layout: post
 date: 2018-12-29 18:48
-tag: Neutrino Physics
-tag: India
+tag: Mathematics
+tag: Blockchain, Machine Learning & Cryptography
+research: true
 teaching: true
 draft: false
 author: Nounahon Jean-Mickael
