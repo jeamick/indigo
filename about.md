@@ -6,7 +6,7 @@ layout: page
 
 I graduated in Financial Engineering at [ESILV](https://www.esilv.fr/en/programmes/masters-program/) supervised by Prof. Cyril Grunspan  in Paris. I did my undergraduate studies in Mathematics for Engineering in Lyon 
 
-I am currently working as a Analyst at BnP Paribas CIB London Branch.
+I am currently working as a Software Engineer at PWC Experience Center in Zurich.
 I am mostly using Python, C++ as my daily languages there to do some Innovation Tools (data analysis/visualization) for risk management. In terms of Finance I am involved in credit risk management & others projects concerning digital transformation.
 I have many tech hobbies such as Blockchain and Artificial Intelligence . I am really into it for 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/), 
 [Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) and [Conferences](https://ethcc.io/) . 
