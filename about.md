@@ -7,10 +7,11 @@ layout: page
 I graduated in Financial Engineering at [ESILV](https://www.esilv.fr/en/programmes/masters-program/) supervised by Prof. Cyril Grunspan  in Paris. I did my undergraduate studies in Mathematics for Engineering in Lyon 
 
 I am currently working as a Software Engineer at PWC Experience Center in Zurich.
-I am mostly using Python, C++ as my daily languages there to do some Innovation Tools (data analysis/visualization) for risk management. In terms of Finance I am involved in credit risk management & others projects concerning digital transformation.
+I am mostly using Python, C++ as my daily languages there to do some Innovation Tools concerning Blockchain & Finance. In terms of Finance, I am involved in credit risk management & others projects concerning digital transformation.
 I have many tech hobbies such as Blockchain and Artificial Intelligence . I am really into it for 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/), 
 [Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) and [Conferences](https://ethcc.io/) . 
-My main open-source project right now is Open Mined , an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/) 
+My main open-source projects right now is Open Mined & Ares, an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/).
+Ares-visual is an Data-Vizualisation library for reports in python: [Ares] (https://github.com/jeamick/ares-visual)
 
 What I did for this decentralized private marketplace was to build
 a [solution](https://github.com/jeamick/Sonar) on top of Ethermint using truffle to be able to give tokens to people who contributes to enhance a public encrypted machine learning model with their own encrypted data.
@@ -32,7 +33,8 @@ Here are the recent projects I have took part into :
   - Cryptofinance Projects: We did many projects during this course. The first was a timestamp study of the bitcoin network based on this [paper](https://arxiv.org/pdf/1702.02867.pdf).
   The goal was to show that the block's timestamp distribution is following a exponential law using statistical
   Analysis . The second part was to develop our own mining algorithm to make sure that the mining time is always 10 minutes and create a exponential law for these series of timestamps.
-
+  Right now, I am starting a Mining strategies simulator in Python to evaluate Selfish-Mining Strategies in Python using Ares as a reporting tool.
+   
 
   - [Corda Audit Application](https://drive.google.com/file/d/0BwysUpxBlNQARTQ0SkRKUlExcjg0X3FzUXg1VGQyVkxKVm93/view): Once our CordApps is added, the firm has access, via a web interface, to the entire transaction history of the company in question. The recovered information is certified by the Blockchain, so the firm can perform its audit. The audit result is not publicly displayed, only a statement indicates that the company has been audited.
   Our application is developed in such a way that we have defined three states: a Boolean that indicates whether or not the audit has been performed; a string for the auditor's name (to see if it can be improved) and an address (in the blockchain sense) of the audited node.
@@ -43,7 +45,6 @@ Here are the recent projects I have took part into :
 Apart from all this, I love sport, meeting new people, travelling, reading and developing. 
 
 More details about some of the projects I have worked about [here](https://drive.google.com/file/d/1hjY7DVMsmG8sE1TMZMChVRe4lq_9CjFr/view?usp=sharing)
-
 
 More information on my academic journey can be found in my [resume](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
 
