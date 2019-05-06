@@ -11,7 +11,7 @@ I am mostly using Python, C++ as my daily languages there to do some Innovation 
 I have many tech hobbies such as Blockchain and Artificial Intelligence . I am really into it for 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/), 
 [Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) and [Conferences](https://ethcc.io/) . 
 My main open-source projects right now is Open Mined & Ares, an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/).
-Ares-visual is an Data-Vizualisation library for reports in python: [Ares] (https://github.com/jeamick/ares-visual)
+Ares-visual is an Data-Vizualisation library for reports in python: [Ares](https://github.com/jeamick/ares-visual)
 
 What I did for this decentralized private marketplace was to build
 a [solution](https://github.com/jeamick/Sonar) on top of Ethermint using truffle to be able to give tokens to people who contributes to enhance a public encrypted machine learning model with their own encrypted data.
