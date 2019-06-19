@@ -22,12 +22,14 @@ Apart from research, I am very passionate about learning. Over the last couple o
 
    - [Voting](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) by designing an electronic voting system using the Ethereum Blockchain and hosted on the Microsoft Azure platform. We had the opportunity [to pitch about solution to the CEO of Microsoft](https://www.youtube.com/watch?v=TRBaRr-VC5U). We have been named as "Inspired people of 2016" by Satya Nadella(Microsoft's CEO) concerning Blockchain.
 
-   - [Gaming](http://blockchainheroes-ubisoft.com/).This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.
+   - [Gaming](http://blockchainheroes-ubisoft.com/) This project strengthens social interactions between players, and gives everyone in their community a real power of governance! Players have a voting right, for transparent faction management... and as owners of the assets they collect, they can assemble them, transform them, exchange them with other players.
    You can find the code [here](https://github.com/YOHANMAURIN/YOHANMAURIN.github.io/tree/develop/Delinquants)
+   
+   - [Art](https://devpost.com/software/blockart) on the Blockchain. Artwork in general, and Crypto Artwork specifically, should be purchasable, accessible and traceable on the blockchain using an iOS app. We used Open Law, Quorum, Azure, Kaleido, MetaMask, Design Thinking, Node.js, and iOS.
 
  
 Here are the recent projects I have took part into :
-  - [Blockchain Master Course](http://HugoBrunet13.github.io): The goal of was to explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer . 
+  - [Blockchain Master Course](https://www.esilv.fr/formations/cycle-ingenieur/options-5e-annee/fintech/): The goal of was to explore the application of many use-case such as timestamping of data between differents solutions (Opentimestamp, Chainpoint), a smart contract for an ICO and a Bitcoin Explorer . 
   I realized these projects with my colleague [Hugo Brunet](https://www.linkedin.com/in/hugo-brunet-b1aa95115/). 
 
   - Cryptofinance Projects: We did many projects during this course. The first was a timestamp study of the bitcoin network based on this [paper](https://arxiv.org/pdf/1702.02867.pdf).
@@ -46,6 +48,6 @@ Apart from all this, I love sport, meeting new people, travelling, reading and d
 
 More details about some of the projects I have worked about [here](https://drive.google.com/file/d/1hjY7DVMsmG8sE1TMZMChVRe4lq_9CjFr/view?usp=sharing)
 
-More information on my academic journey can be found in my [resume](https://drive.google.com/file/d/1aWANHEPfPC-UprYjFzVs_8KYuWGOfs9j/view?usp=sharing).
+More information on my academic journey can be found in my [resume](https://github.com/jeamick/jeamick.github.io/blob/master/Nounahon_Resume.pdf).
 
 Feel free to write to me with any questions or opportunities in Blockchain, Finance & Computer science that you think will interest me. 
