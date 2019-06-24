@@ -7,13 +7,13 @@ layout: page
 I graduated in Financial Engineering at [ESILV](https://www.esilv.fr/en/programmes/masters-program/) supervised by Prof. Cyril Grunspan in Paris. I did my undergraduate studies in Mathematics for Engineering in Lyon 
 
 I am currently working as a Software Engineer at PwC Experience Center in Zurich.
-I am mostly using Python, C++ as my daily languages there to do some Innovation Tools concerning Blockchain & Finance. In terms of Finance, I am involved in credit risk management & others projects concerning digital transformation.
-I have many tech hobbies such as Blockchain and Artificial Intelligence . I am really into it for 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/), 
+I am mostly using Python, C++ as my daily languages there to do some Innovation Tools concerning Blockchain & Finance. In terms of Finance, I am involved in Financial Engineering & others projects concerning digital transformation.
+I have many tech hobbies such as Blockchain and Artificial Intelligence . I am really into it since 3 years by reading about it concerning every kind of subject, by attending meetups like [Asseth](https://www.asseth.fr/), 
 [Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) and [Conferences](https://ethcc.io/) . 
 My main open-source projects right now is Open Mined & Ares, an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/).
-Ares-visual is an Data-Vizualisation library for reports in python: [Ares](https://github.com/jeamick/ares-visual)
+Ares is an Data-Vizualisation library for reports purely in python: [Ares](https://github.com/jeamick/ares-visual)
 
-What I did for this decentralized private marketplace was to build
+What I did for this decentralized private marketplace(OpenMined) was to build
 a [solution](https://github.com/jeamick/Sonar) on top of Ethermint using truffle to be able to give tokens to people who contributes to enhance a public encrypted machine learning model with their own encrypted data.
 
 Apart from research, I am very passionate about learning. Over the last couple of years, I have been to several hackathons to keep learning about Blockchain technology applied to many use-cases : 
@@ -26,6 +26,8 @@ Apart from research, I am very passionate about learning. Over the last couple o
    You can find the code [here](https://github.com/YOHANMAURIN/YOHANMAURIN.github.io/tree/develop/Delinquants)
    
    - [Art](https://devpost.com/software/blockart) on the Blockchain. Artwork in general, and Crypto Artwork specifically, should be purchasable, accessible and traceable on the blockchain using an iOS app. We used Open Law, Quorum, Azure, Kaleido, MetaMask, Design Thinking, Node.js, and iOS.
+   
+   - [Peer-to-Peer Valuation Marketplace for issuance of digital assets](http://k19app.s3-website.eu-central-1.amazonaws.com) on the Blockchain. This project a valuation platform that rewards users for accurately estimating price of any asset, including previously non-bankable assets, such as a piece of art. The value of the asset is determined based on the wisdom of the crowd, stating that average opinion of the large group of people is more accurate than any expert. The problem with existing valuation solutions is that they are centralised and traditionally made by a few experts, which leads to possible mistakes or manipulations.
 
  
 Here are the recent projects I have took part into :
