@@ -52,4 +52,4 @@ Apart from all this, I love sport, meeting new people, travelling, reading and d
 
 More information on my work journey can be found in my [resume](https://github.com/jeamick/jeamick.github.io/blob/master/Nounahon_Resume.pdf).
 
-Feel free to write to me with any questions or opportunities in Blockchain, Finance & Computer science that you think will interest me. 
+Feel free to write to me with any questions or opportunities in Blockchain, Finance & Computer science that you think will interest me at nounahon.j@gmail.com 
