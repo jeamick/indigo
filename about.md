@@ -2,14 +2,14 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I graduated in Financial Engineering at [ESILV](https://www.esilv.fr/en/programmes/masters-program/) supervised by Prof. Cyril Grunspan in Paris. I did my undergraduate studies in Mathematics for Engineering in Lyon 
+I graduated in Financial Engineering at [ESILV](https://www.esilv.fr/en/programmes/masters-program/) supervised by Prof. Cyril Grunspan in Paris. I did my undergraduate studies in Mathematics  in Lyon 
 
-I am currently working as a IT Financial Engineer at BNP Paribas in London.
-My tasks are to develop and maintain a collateral management platform developped in Java and work with the relevant team for on-going new innovation project involving Modelling.
-I am mostly using Python, C++ & recently Java as my daily languages there to do some Innovation Tools concerning Blockchain & Finance.
-In terms of Finance, I am involved in Financial Engineering & others projects concerning digital transformation of prime brokerage services.
+I am currently working as a Systematic Market Making Strategist at Goldman Sachs in London.
+
+My tasks are to write, maintain, and monitor the on-exchange trading algorithms for the futures agency business along with algorithms used by in-house traders in the interest rate products and commodities trading groups. Our algorithms trade futures, futures options, and various exchange traded interest rate products such as bonds and interest rate swaps.
+I am mostly using Python, C++ & recently Java.
+In terms of Finance, I am involved in Financial Engineering & others projects concerning algo trading.
 I have many tech hobbies such as Blockchain and Artificial Intelligence . I am really into it since 3 years by reading about it concerning Finance mostly, by attending meetups like [Asseth](https://www.asseth.fr/), 
 [Hackathons](https://www.linkedin.com/pulse/people-who-inspired-me-2016-satya-nadella/) and [Conferences](https://ethcc.io/) . 
 My main open-source projects right now is Open Mined & Ares, an open-source community focused on researching, developing, and promoting tools for secure, privacy-preserving, value-aligned artificial intelligence: [OpenMined](https://www.openmined.org/).
